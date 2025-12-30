@@ -78,11 +78,15 @@
             <ol class="text-red-800 space-y-3 text-sm">
                 <li class="flex items-start">
                     <span class="font-semibold mr-2">1.</span>
-                    <span><strong>Trust the Developer Profile:</strong> Go to <strong>Settings</strong> → <strong>General</strong> → <strong>VPN & Device Management</strong> (or <strong>Device Management</strong>). Find your developer profile and tap <strong>"Trust [Developer Name]"</strong> twice to confirm.</span>
+                    <span><strong>No Profile Showing in Settings?</strong> This means your device UDID is NOT registered in the provisioning profile. You need to:<br>
+                    • Get your iPad's UDID: <strong>Settings</strong> → <strong>General</strong> → <strong>About</strong> → Tap on "Identifier" to copy it<br>
+                    • Add it to your Apple Developer account at <a href="https://developer.apple.com/account/resources/devices/list" target="_blank" class="underline">developer.apple.com</a><br>
+                    • Update the provisioning profile to include your device<br>
+                    • Rebuild and export a new IPA with the updated profile</span>
                 </li>
                 <li class="flex items-start">
                     <span class="font-semibold mr-2">2.</span>
-                    <span><strong>Check Device Registration:</strong> Your iPad's UDID must be registered in the provisioning profile. If you see "Untrusted Developer" or the app crashes immediately, your device may not be registered.</span>
+                    <span><strong>Trust the Developer Profile:</strong> If a profile appears, go to <strong>Settings</strong> → <strong>General</strong> → <strong>VPN & Device Management</strong> (or <strong>Device Management</strong>). Find your developer profile and tap <strong>"Trust [Developer Name]"</strong> twice to confirm.</span>
                 </li>
                 <li class="flex items-start">
                     <span class="font-semibold mr-2">3.</span>
