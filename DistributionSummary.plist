@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CoachApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FF41945406B4933C0AC9DA5EE041B59FE108D459</string>
+				<key>dateExpires</key>
+				<string>27/12/2026</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6KFL26YA9E.zaid.CoachApp</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.zaid.CoachApp</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudKit</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6KFL26YA9E</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CoachApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>122ae36c-d9e3-42f1-9581-4ac401b089f6</string>
+				<key>dateExpires</key>
+				<string>27/12/2026</string>
+				<key>name</key>
+				<string>Fit Fast Ad-hoc 12</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6KFL26YA9E</string>
+				<key>name</key>
+				<string>Osama Jassim</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
