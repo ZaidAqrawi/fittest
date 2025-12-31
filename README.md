@@ -87,4 +87,3 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 - **"Cannot connect to [server]"** - Verify the repository is public
 - **Installation fails** - Ensure the device UDID is registered in the provisioning profile
 - **Certificate error** - User needs to trust the developer in Settings
-
