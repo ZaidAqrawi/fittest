@@ -1,222 +1,232 @@
-2025-12-31 15:48:10 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0xa2ab2db00; archive(resolved)="<IDEArchive: 0xa353e05b0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
+2026-01-03 13:16:20 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0xbdc2abc00; archive(resolved)="<IDEArchive: 0xbdc94df10>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
 	Chain (16, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0xa2ab2db00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionProcessingPipelineContext: 0xa2ab2d800; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1acb8000; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b0ecf00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b0eca00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b0cd680; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b23a300; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b377c00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b675e00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa2105dd40; teamID='6KFL26YA9E', teamName='Osama Jassim', teamType='Individual', username='osama.jassim.go@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0xa1b676080; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="(null)">
-	<IDEDistributionContext: 0xa1b677200; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="(null)">
-	<IDEDistributionContext: 0xa1b677700; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="(null)">
-	<IDEDistributionContext: 0xa1b675400; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa30ca72a0>", team="(null)">
-	<IDEDistributionContext: 0xa1b677c00; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="(null)", team="(null)">
-	<IDEDistributionContext: 0xa2266c500; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="(null)", team="(null)">
-	<IDEDistributionContext: 0xa2266c780; archive = "<IDEArchive: 0xa353e05b0>", distributionMethod="(null)", team="(null)">
-</IDEDistributionProcessingPipelineContext: 0xa2ab2db00>
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionCreateDestRootStep
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionCopyItemStep
-2025-12-31 15:48:10 +0000  Running /usr/bin/ditto '-V' '/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app' '/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root/Payload/CoachApp.app'
-2025-12-31 15:48:10 +0000  >>> Copying /Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app 
-2025-12-31 15:48:10 +0000  copying file ./_CodeSignature/CodeResources ... 
-2025-12-31 15:48:10 +0000  7597 bytes for ./_CodeSignature/CodeResources
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Subscribers.strings ... 
-2025-12-31 15:48:10 +0000  1340 bytes for ./ar.lproj/Subscribers.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Machines.strings ... 
-2025-12-31 15:48:10 +0000  2165 bytes for ./ar.lproj/Machines.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Dashboard.strings ... 
-2025-12-31 15:48:10 +0000  1106 bytes for ./ar.lproj/Dashboard.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Courses.strings ... 
-2025-12-31 15:48:10 +0000  3834 bytes for ./ar.lproj/Courses.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Goals.strings ... 
-2025-12-31 15:48:10 +0000  1820 bytes for ./ar.lproj/Goals.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Common.strings ... 
-2025-12-31 15:48:10 +0000  1434 bytes for ./ar.lproj/Common.strings
-2025-12-31 15:48:10 +0000  copying file ./ar.lproj/Settings.strings ... 
-2025-12-31 15:48:10 +0000  1824 bytes for ./ar.lproj/Settings.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Subscribers.strings ... 
-2025-12-31 15:48:10 +0000  609 bytes for ./en.lproj/Subscribers.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Machines.strings ... 
-2025-12-31 15:48:10 +0000  914 bytes for ./en.lproj/Machines.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Dashboard.strings ... 
-2025-12-31 15:48:10 +0000  466 bytes for ./en.lproj/Dashboard.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Courses.strings ... 
-2025-12-31 15:48:10 +0000  1555 bytes for ./en.lproj/Courses.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Goals.strings ... 
-2025-12-31 15:48:10 +0000  782 bytes for ./en.lproj/Goals.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Common.strings ... 
-2025-12-31 15:48:10 +0000  543 bytes for ./en.lproj/Common.strings
-2025-12-31 15:48:10 +0000  copying file ./en.lproj/Settings.strings ... 
-2025-12-31 15:48:10 +0000  715 bytes for ./en.lproj/Settings.strings
-2025-12-31 15:48:10 +0000  copying file ./AppIcon60x60@2x.png ... 
-2025-12-31 15:48:10 +0000  5763 bytes for ./AppIcon60x60@2x.png
-2025-12-31 15:48:10 +0000  copying file ./CoachApp ... 
-2025-12-31 15:48:10 +0000  2822256 bytes for ./CoachApp
-2025-12-31 15:48:10 +0000  copying file ./Assets.car ... 
-2025-12-31 15:48:10 +0000  109176 bytes for ./Assets.car
-2025-12-31 15:48:10 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
-2025-12-31 15:48:10 +0000  7508 bytes for ./AppIcon76x76@2x~ipad.png
-2025-12-31 15:48:10 +0000  copying file ./embedded.mobileprovision ... 
-2025-12-31 15:48:10 +0000  15287 bytes for ./embedded.mobileprovision
-2025-12-31 15:48:10 +0000  copying file ./Info.plist ... 
-2025-12-31 15:48:10 +0000  1631 bytes for ./Info.plist
-2025-12-31 15:48:10 +0000  copying file ./PkgInfo ... 
-2025-12-31 15:48:10 +0000  8 bytes for ./PkgInfo
-2025-12-31 15:48:10 +0000  /usr/bin/ditto exited with 0
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionEmbedProfileStep
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionInfoPlistStep
-2025-12-31 15:48:10 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2025-12-31 15:48:10 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionSymbolsStep
-2025-12-31 15:48:10 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionAppThinningStep
-2025-12-31 15:48:10 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionArchThinningStep
-2025-12-31 15:48:10 +0000  Archs to thin for item /Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app are []
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionODRStep
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionStripXattrsStep
-2025-12-31 15:48:10 +0000  Skipping stripping extended attributes because the codesign step will strip them.
-2025-12-31 15:48:10 +0000  Processing step: IDEDistributionCodesignStep
-2025-12-31 15:48:10 +0000  Entitlements for <IDEDistributionItem: 0xa1a645f80; bundleID='zaid.CoachApp', path='<DVTFilePath:0xa1a65b840:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa1a647840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa33231b00; name='Apple Development: Osama Jassim (MTA27WEWAX)', hash='514F21EDBE6B17AA628A2F7D27E167F9AED7C14B', serialNumber='1899FF36B1D61671CD81FA33E54B3042', certificateKinds='(
-    "1.2.840.113635.100.6.1.12",
-    "1.2.840.113635.100.6.1.2"
-), issueDate='2025-11-29 10:48:35 +0000''>', entitlements='{
-    "application-identifier" = "6KFL26YA9E.zaid.CoachApp";
-    "aps-environment" = development;
+	<IDEDistributionProcessingPipelineContext: 0xbdc2abc00; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0xbdc4d1500; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdc6ff980; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd102300; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd102580; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd102800; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd102a80; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd102d00; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd101400; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xbd0145900; teamID='SBL65MNY44', teamName='EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED', teamType='Company', username='easytechcopmany@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xbdd103980; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="(null)">
+	<IDEDistributionContext: 0xbdd103700; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="(null)">
+	<IDEDistributionContext: 0xbdd103480; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="(null)">
+	<IDEDistributionContext: 0xbdd103200; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xbc1b7b960>", team="(null)">
+	<IDEDistributionContext: 0xbdd101b80; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0xbdd09fc00; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0xbdd09f700; archive = "<IDEArchive: 0xbdc94df10>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0xbdc2abc00>
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionCreateDestRootStep
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionCopyItemStep
+2026-01-03 13:16:20 +0000  Running /usr/bin/ditto '-V' '/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app' '/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root/Payload/CoachApp.app'
+2026-01-03 13:16:20 +0000  >>> Copying /Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app 
+2026-01-03 13:16:20 +0000  copying file ./_CodeSignature/CodeResources ... 
+2026-01-03 13:16:20 +0000  7597 bytes for ./_CodeSignature/CodeResources
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Subscribers.strings ... 
+2026-01-03 13:16:20 +0000  1340 bytes for ./ar.lproj/Subscribers.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Machines.strings ... 
+2026-01-03 13:16:20 +0000  2165 bytes for ./ar.lproj/Machines.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Dashboard.strings ... 
+2026-01-03 13:16:20 +0000  1106 bytes for ./ar.lproj/Dashboard.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Courses.strings ... 
+2026-01-03 13:16:20 +0000  3834 bytes for ./ar.lproj/Courses.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Goals.strings ... 
+2026-01-03 13:16:20 +0000  1820 bytes for ./ar.lproj/Goals.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Common.strings ... 
+2026-01-03 13:16:20 +0000  1434 bytes for ./ar.lproj/Common.strings
+2026-01-03 13:16:20 +0000  copying file ./ar.lproj/Settings.strings ... 
+2026-01-03 13:16:20 +0000  1824 bytes for ./ar.lproj/Settings.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Subscribers.strings ... 
+2026-01-03 13:16:20 +0000  609 bytes for ./en.lproj/Subscribers.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Machines.strings ... 
+2026-01-03 13:16:20 +0000  914 bytes for ./en.lproj/Machines.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Dashboard.strings ... 
+2026-01-03 13:16:20 +0000  466 bytes for ./en.lproj/Dashboard.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Courses.strings ... 
+2026-01-03 13:16:20 +0000  1555 bytes for ./en.lproj/Courses.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Goals.strings ... 
+2026-01-03 13:16:20 +0000  782 bytes for ./en.lproj/Goals.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Common.strings ... 
+2026-01-03 13:16:20 +0000  543 bytes for ./en.lproj/Common.strings
+2026-01-03 13:16:20 +0000  copying file ./en.lproj/Settings.strings ... 
+2026-01-03 13:16:20 +0000  715 bytes for ./en.lproj/Settings.strings
+2026-01-03 13:16:20 +0000  copying file ./AppIcon60x60@2x.png ... 
+2026-01-03 13:16:20 +0000  5763 bytes for ./AppIcon60x60@2x.png
+2026-01-03 13:16:20 +0000  copying file ./CoachApp ... 
+2026-01-03 13:16:20 +0000  2841248 bytes for ./CoachApp
+2026-01-03 13:16:20 +0000  copying file ./Assets.car ... 
+2026-01-03 13:16:20 +0000  109176 bytes for ./Assets.car
+2026-01-03 13:16:20 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2026-01-03 13:16:20 +0000  7508 bytes for ./AppIcon76x76@2x~ipad.png
+2026-01-03 13:16:20 +0000  copying file ./embedded.mobileprovision ... 
+2026-01-03 13:16:20 +0000  14095 bytes for ./embedded.mobileprovision
+2026-01-03 13:16:20 +0000  copying file ./Info.plist ... 
+2026-01-03 13:16:20 +0000  1637 bytes for ./Info.plist
+2026-01-03 13:16:20 +0000  copying file ./PkgInfo ... 
+2026-01-03 13:16:20 +0000  8 bytes for ./PkgInfo
+2026-01-03 13:16:20 +0000  /usr/bin/ditto exited with 0
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionEmbedProfileStep
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionInfoPlistStep
+2026-01-03 13:16:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2026-01-03 13:16:20 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionSymbolsStep
+2026-01-03 13:16:20 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionAppThinningStep
+2026-01-03 13:16:20 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionArchThinningStep
+2026-01-03 13:16:20 +0000  Archs to thin for item /Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app are []
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionODRStep
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionStripXattrsStep
+2026-01-03 13:16:20 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2026-01-03 13:16:20 +0000  Processing step: IDEDistributionCodesignStep
+2026-01-03 13:16:20 +0000  Entitlements for <IDEDistributionItem: 0xbdd0a03c0; bundleID='com.zaid.FitFast', path='<DVTFilePath:0xbd660e940:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbdd0a3ba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbc1433900; name='Apple Distribution: EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED (SBL65MNY44)', hash='B48CCB1EAC9E115A45A16E64B3E563D1B1E285D2', serialNumber='45418297E367B37283F4666BE7098A68', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2026-01-03 09:43:02 +0000''>', entitlements='{
+    "application-identifier" = "SBL65MNY44.com.zaid.FitFast";
     "com.apple.developer.icloud-container-identifiers" =     (
-        "iCloud.zaid.CoachApp"
+        "iCloud.com.zaid.FitFast"
     );
     "com.apple.developer.icloud-services" =     (
         CloudKit
     );
-    "com.apple.developer.team-identifier" = 6KFL26YA9E;
-    "get-task-allow" = 1;
-}', teamID='6KFL26YA9E', identifier='zaid.CoachApp', executablePath='<DVTFilePath:0xa1a65a280:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'>: {
-    "application-identifier" = "6KFL26YA9E.zaid.CoachApp";
-    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = SBL65MNY44;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+        "iCloud.com.zaid.FitFast"
+    );
+    "get-task-allow" = 0;
+}', teamID='SBL65MNY44', identifier='com.zaid.FitFast', executablePath='<DVTFilePath:0xbdbc4c4e0:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'>: {
+    "application-identifier" = "SBL65MNY44.com.zaid.FitFast";
     "com.apple.developer.icloud-container-environment" = Production;
     "com.apple.developer.icloud-container-identifiers" =     (
-        "iCloud.zaid.CoachApp"
+        "iCloud.com.zaid.FitFast"
     );
     "com.apple.developer.icloud-services" =     (
         CloudKit
     );
-    "com.apple.developer.team-identifier" = 6KFL26YA9E;
+    "com.apple.developer.team-identifier" = SBL65MNY44;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+        "iCloud.com.zaid.FitFast"
+    );
     "get-task-allow" = 0;
 }
-2025-12-31 15:48:10 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
-2025-12-31 15:48:10 +0000  Entitlements for <IDEDistributionItem: 0xa1a645f80; bundleID='zaid.CoachApp', path='<DVTFilePath:0xa1a65b840:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa1a647840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa33232400; name='Apple Development: Osama Jassim (MTA27WEWAX)', hash='514F21EDBE6B17AA628A2F7D27E167F9AED7C14B', serialNumber='1899FF36B1D61671CD81FA33E54B3042', certificateKinds='(
-    "1.2.840.113635.100.6.1.12",
-    "1.2.840.113635.100.6.1.2"
-), issueDate='2025-11-29 10:48:35 +0000''>', entitlements='{
-    "application-identifier" = "6KFL26YA9E.zaid.CoachApp";
-    "aps-environment" = development;
+2026-01-03 13:16:20 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-01-03 13:16:20 +0000  Entitlements for <IDEDistributionItem: 0xbdd0a03c0; bundleID='com.zaid.FitFast', path='<DVTFilePath:0xbd660e940:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbdd0a3ba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbc1433d80; name='Apple Distribution: EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED (SBL65MNY44)', hash='B48CCB1EAC9E115A45A16E64B3E563D1B1E285D2', serialNumber='45418297E367B37283F4666BE7098A68', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2026-01-03 09:43:02 +0000''>', entitlements='{
+    "application-identifier" = "SBL65MNY44.com.zaid.FitFast";
     "com.apple.developer.icloud-container-identifiers" =     (
-        "iCloud.zaid.CoachApp"
+        "iCloud.com.zaid.FitFast"
     );
     "com.apple.developer.icloud-services" =     (
         CloudKit
     );
-    "com.apple.developer.team-identifier" = 6KFL26YA9E;
-    "get-task-allow" = 1;
-}', teamID='6KFL26YA9E', identifier='zaid.CoachApp', executablePath='<DVTFilePath:0xa1a65a280:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'> are: {
-    "application-identifier" = "6KFL26YA9E.zaid.CoachApp";
-    "aps-environment" = production;
+    "com.apple.developer.team-identifier" = SBL65MNY44;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+        "iCloud.com.zaid.FitFast"
+    );
+    "get-task-allow" = 0;
+}', teamID='SBL65MNY44', identifier='com.zaid.FitFast', executablePath='<DVTFilePath:0xbdbc4c4e0:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'> are: {
+    "application-identifier" = "SBL65MNY44.com.zaid.FitFast";
     "com.apple.developer.icloud-container-environment" = Production;
     "com.apple.developer.icloud-container-identifiers" =     (
-        "iCloud.zaid.CoachApp"
+        "iCloud.com.zaid.FitFast"
     );
     "com.apple.developer.icloud-services" =     (
         CloudKit
     );
-    "com.apple.developer.team-identifier" = 6KFL26YA9E;
+    "com.apple.developer.team-identifier" = SBL65MNY44;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+        "iCloud.com.zaid.FitFast"
+    );
     "get-task-allow" = 0;
 }
-2025-12-31 15:48:10 +0000  Writing entitlements for <IDEDistributionItem: 0xa1a645f80; bundleID='zaid.CoachApp', path='<DVTFilePath:0xa1a65b840:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa1a647840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa33232400; name='Apple Development: Osama Jassim (MTA27WEWAX)', hash='514F21EDBE6B17AA628A2F7D27E167F9AED7C14B', serialNumber='1899FF36B1D61671CD81FA33E54B3042', certificateKinds='(
-    "1.2.840.113635.100.6.1.12",
-    "1.2.840.113635.100.6.1.2"
-), issueDate='2025-11-29 10:48:35 +0000''>', entitlements='{
-    "application-identifier" = "6KFL26YA9E.zaid.CoachApp";
-    "aps-environment" = development;
+2026-01-03 13:16:20 +0000  Writing entitlements for <IDEDistributionItem: 0xbdd0a03c0; bundleID='com.zaid.FitFast', path='<DVTFilePath:0xbd660e940:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbdd0a3ba0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbc1433d80; name='Apple Distribution: EASY TECHNOLOGY COMPANY FOR CREATING PHONE AND COMPUTER APPLICATIONS LIMITED (SBL65MNY44)', hash='B48CCB1EAC9E115A45A16E64B3E563D1B1E285D2', serialNumber='45418297E367B37283F4666BE7098A68', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2026-01-03 09:43:02 +0000''>', entitlements='{
+    "application-identifier" = "SBL65MNY44.com.zaid.FitFast";
     "com.apple.developer.icloud-container-identifiers" =     (
-        "iCloud.zaid.CoachApp"
+        "iCloud.com.zaid.FitFast"
     );
     "com.apple.developer.icloud-services" =     (
         CloudKit
     );
-    "com.apple.developer.team-identifier" = 6KFL26YA9E;
-    "get-task-allow" = 1;
-}', teamID='6KFL26YA9E', identifier='zaid.CoachApp', executablePath='<DVTFilePath:0xa1a65a280:'/Users/osamaali/Library/Developer/Xcode/Archives/2025-12-31/CoachApp 31-12-2025, 6.47 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'> to: /var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/entitlements~~~kYSpGl
-2025-12-31 15:48:10 +0000  invoking codesign: <NSConcreteTask: 0xa23d0ad50; launchPath='/usr/bin/codesign', arguments='(
+    "com.apple.developer.team-identifier" = SBL65MNY44;
+    "com.apple.developer.ubiquity-container-identifiers" =     (
+        "iCloud.com.zaid.FitFast"
+    );
+    "get-task-allow" = 0;
+}', teamID='SBL65MNY44', identifier='com.zaid.FitFast', executablePath='<DVTFilePath:0xbdbc4c4e0:'/Users/zaidaqrawi/Library/Developer/Xcode/Archives/2026-01-03/CoachApp 03-01-2026, 4.15 PM.xcarchive/Products/Applications/CoachApp.app/CoachApp'>', hardenedRuntime='1'>'> to: /var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/entitlements~~~J7W0f9
+2026-01-03 13:16:20 +0000  invoking codesign: <NSConcreteTask: 0xbdd3262b0; launchPath='/usr/bin/codesign', arguments='(
     "-f",
     "-s",
-    FF41945406B4933C0AC9DA5EE041B59FE108D459,
+    B48CCB1EAC9E115A45A16E64B3E563D1B1E285D2,
     "--entitlements",
-    "/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/entitlements~~~kYSpGl",
+    "/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/entitlements~~~J7W0f9",
     "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
     "--generate-entitlement-der",
     "--strip-disallowed-xattrs",
     "-vvv",
-    "/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root/Payload/CoachApp.app"
+    "/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root/Payload/CoachApp.app"
 )'>
-2025-12-31 15:48:24 +0000  codesign output: /var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root/Payload/CoachApp.app: replacing existing signature
-/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root/Payload/CoachApp.app: signed app bundle with Mach-O thin (arm64) [zaid.CoachApp]
-2025-12-31 15:48:24 +0000  Processing step: IDEDistributionZipODRItemStep
-2025-12-31 15:48:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2025-12-31 15:48:24 +0000  Processing step: IDEDistributionCreateIPAStep
-2025-12-31 15:48:24 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root' '/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Packages/CoachApp.ipa'
-2025-12-31 15:48:24 +0000  >>> Copying /var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root 
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/_CodeSignature/CodeResources ... 
-2025-12-31 15:48:24 +0000  7597 bytes for ./Payload/CoachApp.app/_CodeSignature/CodeResources
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Subscribers.strings ... 
-2025-12-31 15:48:24 +0000  1340 bytes for ./Payload/CoachApp.app/ar.lproj/Subscribers.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Machines.strings ... 
-2025-12-31 15:48:24 +0000  2165 bytes for ./Payload/CoachApp.app/ar.lproj/Machines.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Dashboard.strings ... 
-2025-12-31 15:48:24 +0000  1106 bytes for ./Payload/CoachApp.app/ar.lproj/Dashboard.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Courses.strings ... 
-2025-12-31 15:48:24 +0000  3834 bytes for ./Payload/CoachApp.app/ar.lproj/Courses.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Goals.strings ... 
-2025-12-31 15:48:24 +0000  1820 bytes for ./Payload/CoachApp.app/ar.lproj/Goals.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Common.strings ... 
-2025-12-31 15:48:24 +0000  1434 bytes for ./Payload/CoachApp.app/ar.lproj/Common.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Settings.strings ... 
-2025-12-31 15:48:24 +0000  1824 bytes for ./Payload/CoachApp.app/ar.lproj/Settings.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Subscribers.strings ... 
-2025-12-31 15:48:24 +0000  609 bytes for ./Payload/CoachApp.app/en.lproj/Subscribers.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Machines.strings ... 
-2025-12-31 15:48:24 +0000  914 bytes for ./Payload/CoachApp.app/en.lproj/Machines.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Dashboard.strings ... 
-2025-12-31 15:48:24 +0000  466 bytes for ./Payload/CoachApp.app/en.lproj/Dashboard.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Courses.strings ... 
-2025-12-31 15:48:24 +0000  1555 bytes for ./Payload/CoachApp.app/en.lproj/Courses.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Goals.strings ... 
-2025-12-31 15:48:24 +0000  782 bytes for ./Payload/CoachApp.app/en.lproj/Goals.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Common.strings ... 
-2025-12-31 15:48:24 +0000  543 bytes for ./Payload/CoachApp.app/en.lproj/Common.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/en.lproj/Settings.strings ... 
-2025-12-31 15:48:24 +0000  715 bytes for ./Payload/CoachApp.app/en.lproj/Settings.strings
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/AppIcon60x60@2x.png ... 
-2025-12-31 15:48:24 +0000  5763 bytes for ./Payload/CoachApp.app/AppIcon60x60@2x.png
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/CoachApp ... 
-2025-12-31 15:48:24 +0000  2822416 bytes for ./Payload/CoachApp.app/CoachApp
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/Assets.car ... 
-2025-12-31 15:48:24 +0000  109176 bytes for ./Payload/CoachApp.app/Assets.car
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/AppIcon76x76@2x~ipad.png ... 
-2025-12-31 15:48:24 +0000  7508 bytes for ./Payload/CoachApp.app/AppIcon76x76@2x~ipad.png
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/embedded.mobileprovision ... 
-2025-12-31 15:48:24 +0000  19410 bytes for ./Payload/CoachApp.app/embedded.mobileprovision
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/Info.plist ... 
-2025-12-31 15:48:24 +0000  1631 bytes for ./Payload/CoachApp.app/Info.plist
-2025-12-31 15:48:24 +0000  copying file ./Payload/CoachApp.app/PkgInfo ... 
-2025-12-31 15:48:24 +0000  8 bytes for ./Payload/CoachApp.app/PkgInfo
-2025-12-31 15:48:24 +0000  /usr/bin/ditto exited with 0
-2025-12-31 15:48:24 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2025-12-31 15:48:24 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2025-12-31 15:48:24 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
-2025-12-31 15:48:24 +0000  IDEDistributionItem init <DVTFilePath:0xa1a656640:'/var/folders/0x/79ss3wwx11xfz_v8jwh42n6h0000gn/T/XcodeDistPipeline.~~~62fPs0/Root/Payload/CoachApp.app'>
-2025-12-31 15:48:24 +0000  Processing step: IDEDistributionCreateManifestStep
+2026-01-03 13:16:25 +0000  codesign output: /var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root/Payload/CoachApp.app: replacing existing signature
+/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root/Payload/CoachApp.app: signed app bundle with Mach-O thin (arm64) [com.zaid.FitFast]
+2026-01-03 13:16:25 +0000  Processing step: IDEDistributionZipODRItemStep
+2026-01-03 13:16:25 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-01-03 13:16:25 +0000  Processing step: IDEDistributionCreateIPAStep
+2026-01-03 13:16:25 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root' '/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Packages/CoachApp.ipa'
+2026-01-03 13:16:25 +0000  >>> Copying /var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root 
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/_CodeSignature/CodeResources ... 
+2026-01-03 13:16:25 +0000  7597 bytes for ./Payload/CoachApp.app/_CodeSignature/CodeResources
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Subscribers.strings ... 
+2026-01-03 13:16:25 +0000  1340 bytes for ./Payload/CoachApp.app/ar.lproj/Subscribers.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Machines.strings ... 
+2026-01-03 13:16:25 +0000  2165 bytes for ./Payload/CoachApp.app/ar.lproj/Machines.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Dashboard.strings ... 
+2026-01-03 13:16:25 +0000  1106 bytes for ./Payload/CoachApp.app/ar.lproj/Dashboard.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Courses.strings ... 
+2026-01-03 13:16:25 +0000  3834 bytes for ./Payload/CoachApp.app/ar.lproj/Courses.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Goals.strings ... 
+2026-01-03 13:16:25 +0000  1820 bytes for ./Payload/CoachApp.app/ar.lproj/Goals.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Common.strings ... 
+2026-01-03 13:16:25 +0000  1434 bytes for ./Payload/CoachApp.app/ar.lproj/Common.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/ar.lproj/Settings.strings ... 
+2026-01-03 13:16:25 +0000  1824 bytes for ./Payload/CoachApp.app/ar.lproj/Settings.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Subscribers.strings ... 
+2026-01-03 13:16:25 +0000  609 bytes for ./Payload/CoachApp.app/en.lproj/Subscribers.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Machines.strings ... 
+2026-01-03 13:16:25 +0000  914 bytes for ./Payload/CoachApp.app/en.lproj/Machines.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Dashboard.strings ... 
+2026-01-03 13:16:25 +0000  466 bytes for ./Payload/CoachApp.app/en.lproj/Dashboard.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Courses.strings ... 
+2026-01-03 13:16:25 +0000  1555 bytes for ./Payload/CoachApp.app/en.lproj/Courses.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Goals.strings ... 
+2026-01-03 13:16:25 +0000  782 bytes for ./Payload/CoachApp.app/en.lproj/Goals.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Common.strings ... 
+2026-01-03 13:16:25 +0000  543 bytes for ./Payload/CoachApp.app/en.lproj/Common.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/en.lproj/Settings.strings ... 
+2026-01-03 13:16:25 +0000  715 bytes for ./Payload/CoachApp.app/en.lproj/Settings.strings
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/AppIcon60x60@2x.png ... 
+2026-01-03 13:16:25 +0000  5763 bytes for ./Payload/CoachApp.app/AppIcon60x60@2x.png
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/CoachApp ... 
+2026-01-03 13:16:25 +0000  2841408 bytes for ./Payload/CoachApp.app/CoachApp
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/Assets.car ... 
+2026-01-03 13:16:25 +0000  109176 bytes for ./Payload/CoachApp.app/Assets.car
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/AppIcon76x76@2x~ipad.png ... 
+2026-01-03 13:16:25 +0000  7508 bytes for ./Payload/CoachApp.app/AppIcon76x76@2x~ipad.png
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/embedded.mobileprovision ... 
+2026-01-03 13:16:25 +0000  18022 bytes for ./Payload/CoachApp.app/embedded.mobileprovision
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/Info.plist ... 
+2026-01-03 13:16:25 +0000  1637 bytes for ./Payload/CoachApp.app/Info.plist
+2026-01-03 13:16:25 +0000  copying file ./Payload/CoachApp.app/PkgInfo ... 
+2026-01-03 13:16:25 +0000  8 bytes for ./Payload/CoachApp.app/PkgInfo
+2026-01-03 13:16:25 +0000  /usr/bin/ditto exited with 0
+2026-01-03 13:16:25 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2026-01-03 13:16:25 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2026-01-03 13:16:25 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2026-01-03 13:16:25 +0000  IDEDistributionItem init <DVTFilePath:0xbdd06c120:'/var/folders/7y/mn0kqlsd4j76q0m4d4r3cb2c0000gn/T/XcodeDistPipeline.~~~d0lW5h/Root/Payload/CoachApp.app'>
+2026-01-03 13:16:25 +0000  Processing step: IDEDistributionCreateManifestStep
